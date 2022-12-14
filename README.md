@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# BikeSharingAssignment - Boom Bikes
+> BoomBikes - Understand the demand for shared bikes among the people 
 
 
 ## Table of Contents
