@@ -35,10 +35,10 @@ temp, Year, Winter, WorkingDay, Light, Sat and winspeed influences bike sharing 
 ## Technologies Used
 - python 3
 - panda
-- plotly
--sklearn
--seaborn
--statsmodel
+- matplotlib
+- sklearn
+- seaborn
+- statsmodel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
