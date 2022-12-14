@@ -45,7 +45,7 @@ temp, Year, Winter, WorkingDay, Light, Sat and winspeed influences bike sharing 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Upgrad Learning
-- This project was based on LendingClub
+- This project was based on BikeSharing problem
 
 
 ## Contact
